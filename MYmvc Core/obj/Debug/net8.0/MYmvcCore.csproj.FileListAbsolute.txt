@@ -1,0 +1,7 @@
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.AssemblyInfoInputs.cache
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.AssemblyInfo.cs
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.csproj.CoreCompileInputs.cache
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.RazorAssemblyInfo.cache
+C:\Users\dharavath.shirisha\Desktop\Asp.net\MVCCORE\MYmvc Core\obj\Debug\net8.0\MYmvcCore.RazorAssemblyInfo.cs

@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\views\\hello\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:views\\hello\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\views\\hello\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:views\\hello\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\views\\hello\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:views\\hello\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\models\\registertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:models\\registertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\models\\onlineshoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:models\\onlineshoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|c:\\users\\dharavath.shirisha\\desktop\\asp.net\\mvccore\\mycoreapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF91B87D-3F2B-4A33-9FE3-78435E4C8683}|MycoreApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Buy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Buy.cshtml",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Buy.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Buy.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:05:06.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwv08AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:26:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Login.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T11:42:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T11:08:26.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registertbl.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Models\\Registertbl.cs",
+              "RelativeDocumentMoniker": "Models\\Registertbl.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Models\\Registertbl.cs",
+              "RelativeToolTip": "Models\\Registertbl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:02:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Register.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T10:29:41.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "onlineshoppingdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Models\\onlineshoppingdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\onlineshoppingdbContext.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Models\\onlineshoppingdbContext.cs",
+              "RelativeToolTip": "Models\\onlineshoppingdbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:25:48.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T10:23:28.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:51:26.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T10:04:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T10:04:52.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dharavath.shirisha\\Desktop\\Asp.net\\MVCCORE\\MycoreApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:04:44.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

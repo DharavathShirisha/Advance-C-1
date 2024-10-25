@@ -1,0 +1,19 @@
+﻿@model MycoreApp.Models.Registertbl
+
+<form method="post">
+    <label>Username</label>
+    <input type="text" asp-for="Uname" class="form-control" />
+    <label>Password</label>
+    <input type="text" asp-for="Password" class="form-control" />
+    <label>Age</label>
+    <input type="text" asp-for="Age" class="form-control" />
+    <label>Eamil</label>
+    <input type="text" asp-for="Email" class="form-control" />
+    <label>Nationality</label>
+    <input type="text" asp-for="Nationality" class="form-control" />
+
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>
+<div class="btn btn-info">
+    @ViewData["a"]
+</div>

@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="efpt.config.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\ac.jpg" />
+    <None Include="wwwroot\images\b.jpg" />
+    <None Include="wwwroot\images\banner.jpg" />
+    <None Include="wwwroot\images\banner1.jpg" />
+    <None Include="wwwroot\images\bk.jpg" />
+    <None Include="wwwroot\images\car.jpg" />
+    <None Include="wwwroot\images\diner.png" />
+    <None Include="wwwroot\images\fan.jpg" />
+    <None Include="wwwroot\images\Fridge.jpg" />
+    <None Include="wwwroot\images\Invertor.jpg" />
+    <None Include="wwwroot\images\mobile.jpg" />
+    <None Include="wwwroot\images\monitor.jpg" />
+    <None Include="wwwroot\images\mouse.jpg" />
+    <None Include="wwwroot\images\power.jpg" />
+    <None Include="wwwroot\images\projector.jpg" />
+    <None Include="wwwroot\images\tv.jpg" />
+    <None Include="wwwroot\images\washingmachine.jpg" />
+    <None Include="wwwroot\images\watch.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+  </ItemGroup>
+
+</Project>

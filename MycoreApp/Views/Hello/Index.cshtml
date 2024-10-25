@@ -1,0 +1,22 @@
+﻿@model List< MycoreApp.Models.Product>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div>
+    <h1>Index method called</h1>
+</div>
+<div class="row">
+    @foreach (var i in Model)
+    {
+        <div class="col-md-4">
+            <img src="/@i.Pimage" />
+            <div>@i.Pid</div>
+            <div>@i.Pname</div>
+            <div>@i.Price</div>
+            <div>@i.Description</div>
+            <a asp-action="Buy" asp-controller="Hello" asp-route-pid="@i.Pid" class="btn btn-info">Buy Now</a>
+            @* <div><a href="buy?Pid=@i.Pid" class="btn btn-info">Buy Now</a></div> *@
+        </div>
+    }
+</div>

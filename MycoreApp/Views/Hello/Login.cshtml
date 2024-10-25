@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="post">
+    <label>Enter username</label>
+    <input type="text" name="t1" class="form-control" /><br />
+
+    <label>Enter password</label>
+    <input type="password" name="t2" class="form-control" /><br /><br />
+
+    <input type="submit" value="Login" />
+</form>
+
+
+<div class="btn btn-danger">
+    @ViewData["err"]
+</div>
+
+
+<div class=" btn btn-info">
+    @Html.ActionLink("new user?Click Here", "Register", null, new { @class = "btn btn-info" })
+</div>
